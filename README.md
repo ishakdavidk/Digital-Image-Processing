@@ -1,2 +1,4 @@
-# Digital-Image-Processing
-동서대학교 - Dongseo University
+## Digital-Image-Processing
+
+Prof. Lee Byung Gook
+
